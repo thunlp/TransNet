@@ -35,3 +35,5 @@ Explanations of the parameters:
 If you use the code, please cite this paper:
 
 _Cunchao Tu, Zhengyan Zhang, Zhiyuan Liu, Maosong Sun. TransNet: Translation-Based Network Representation Learning for Social Relation Extraction.  The 26th International Joint Conference on Artificial Intelligence (IJCAI 2017)._
+
+For more related works on network representation learning, please refer to my [homepage](http://thunlp.org/~tcc/).
