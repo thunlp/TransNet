@@ -200,7 +200,7 @@ def read_triples(filename):
                    head_set, tail_set, entity_total, tag_total)
 
 
-def read_data_sets(train_dir='aminer_6k_500'):
+def read_data_sets(train_dir='aminer_small'):
     class DataSets(object):
         pass
     data_sets = DataSets()
