@@ -1,6 +1,8 @@
 # TransNet
 Source code and datasets of IJCAI2017 paper "TransNet: Translation-Based Network Representation Learning for Social Relation Extraction".
 
+This work is selected as an example of the [“MLTrain”](http://auai.org/uai2017/training.php) training event in UAI 2017 (The Conference on Uncertainty in Artificial Intelligence). We release an ipython notebook that demonstrates the algorithm of TransNet. Details please refer to the "ipynb" directory.
+
 ## Datasets
 This folder "data" contains three different scales of datasets extracted from [Aminer](https://cn.aminer.org/). Please unzip the "data.zip" file before using it.
 
