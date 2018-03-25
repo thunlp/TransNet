@@ -10,6 +10,8 @@ This folder "data" contains three different scales of datasets extracted from [A
 * **aminer_m**: 268,037 vertices, 2,747,386 edges and 500 labels.
 * **aminer_l**: 945,589 vertices, 5,056,050 edges and 500 labels.
 
+The mapping from authors to identifiers in **aminer_s/m/l** is lost. We offer a raw aminer dataset which contains 5000 labels of edges and 1,712,433 authors. The dataset is extracted from [AMiner](https://aminer.org/aminernetwork). Please unzip the "data_raw.zip" file before using it.
+
 ## Run
 
 Run the following command for training TransNet:
